@@ -8,6 +8,8 @@ public class TestRun {
 		System.out.println("Hello World2!");
 		//bugfix
 		System.out.println("Hello World3!!");
+		// add func
+		System.out.print("aaa");
 	}
 
 }
