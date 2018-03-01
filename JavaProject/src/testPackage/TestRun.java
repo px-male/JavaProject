@@ -6,8 +6,8 @@ public class TestRun {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello World!");
 		System.out.println("Hello World2!");
-		System.out.println("Hello World3!");
-
+		//bugfix
+		System.out.println("Hello World3!!");
 	}
 
 }
