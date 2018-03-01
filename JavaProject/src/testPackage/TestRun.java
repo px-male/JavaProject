@@ -12,4 +12,8 @@ public class TestRun {
 		System.out.print("aaa");
 	}
 
+	private void getAA() {
+		System.out.println("get");
+	}
+	
 }
