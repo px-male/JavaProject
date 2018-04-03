@@ -10,10 +10,13 @@ public class TestRun {
 		System.out.println("Hello World3!!");
 		// add func
 		System.out.print("aaa");
-	}
-
-	private void getAA() {
-		System.out.println("get");
+		// add func2
+		String x = "abc";
+		System.out.println(x);
 	}
 	
+	public void aaa(){
+		System.out.println("func aaa!");
+	}
+
 }
